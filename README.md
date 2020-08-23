@@ -2,4 +2,4 @@
 
 Um sistema simples feito em PHP no padrão MVC para a Disciplina de Desenvolvimento WEB
 
-## Demo: (heroku em breve)
+## Demo: (https://compras-mvc.herokuapp.com/View/HomePage.php)
